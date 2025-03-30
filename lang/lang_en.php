@@ -1,5 +1,5 @@
 <?php
-define("_studentInformationSystem", "Student Information System");
+define("_studentInformationSystem", "ZanaSchool");
 define("_systemPreferences", "System Preferences");
 define("_setHalfDayAndFullDayMinutes", "Set half-day and full-day minutes");
 define("_setLoginFailureAllowanceCount", "Set login failure allowance count");
