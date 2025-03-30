@@ -1,2 +1,14 @@
 composer.lock
 vendor/
+# Ignore macOS system files
+.DS_Store
+
+# Ignore log files
+*.log
+
+# Ignore temporary files
+*.tmp
+*.swp
+
+# Ignore node_modules folder
+node_modules/
