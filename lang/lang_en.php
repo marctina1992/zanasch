@@ -24,7 +24,7 @@ define("_backToUserList", "Back to User List");
 define("_deselect", "DESELECT");
 define("_missingAttendanceDataListCreated", "Missing attendance data list created");
 define("_ZanaSchool", "ZanaSchool - Zanaverse");
-define("_footerText", "ZanaSchool (Zanaverse) Inc. (<a href=\"http://www.zanaschool.com\">ZanaSchool</a>) and is licensed under the GPL license</a>.");
+define("_footerText", "ZanaSchool (Zanaverse) Inc. (<a href=\"http://www.zanaschool.com\">Zanaverse<");
 //SCHOOL SETUP
 define("_cannotDeleteBecauseStudentsAreEnrolledInThisCalendar", "Cannot delete because students are enrolled in this calendar");
 define("_cannotUploadFileOnlyJpgJpegPngGifFilesAreAllowed", "Cannot upload file. Only jpg, jpeg, png, gif files are allowed");

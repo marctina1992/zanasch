@@ -36,7 +36,7 @@ if($url===FALSE){
  header('Location: index.php');
  }
 
-echo "<HTML><HEAD><TITLE>"._openSisSchool."</TITLE>
+echo "<HTML><HEAD><TITLE>"._ZanaSchool."</TITLE>
 <script language=javascript>
 function resizeImages()
 {
